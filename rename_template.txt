@@ -1,1 +1,1 @@
-name_[number, for example 001].jpg
+name_[001].jpg
